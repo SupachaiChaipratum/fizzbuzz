@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/SupachaiChaipratum/fizzbuzz.svg?branch=master)](https://travis-ci.org/SupachaiChaipratum/fizzbuzz)
 
 # FizzBuzz
 
