@@ -6,7 +6,7 @@ public class FizzBuzzTest {
     @Test
     public void getResultShouldReturnFizzIfTheNumberIsDividableBy3() {
         Assert.assertEquals("fizz", FizzBuzz.getResult(3));
-        Assert.assertEquals("fizz", FizzBuzz.getResult(9));
+        Assert.assertEquals("fizz", FizzBuzz.getResult(10));
     }
 
     @Test
